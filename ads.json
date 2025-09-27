@@ -1,22 +1,20 @@
 [
   {
-    "id": "gw-300",
-    "name": "Genius Wave",
-    "img": "https://your-cdn.com/ads/genius-wave-300x250.jpg",
-    "url": "https://example.com/gw?utm_source=blog&utm_medium=ad&utm_campaign=rotator&utm_content=gw-300",
+    "id": "test-300",
+    "name": "Test 300x250",
+    "img": "https://via.placeholder.com/300x250?text=Ad+300x250",
+    "url": "https://example.com/?utm_content=test-300",
     "sizes": ["300x250","300x600"],
-    "weight": 3,
-    "category": "mmo",
+    "weight": 1,
     "active": true
   },
   {
-    "id": "prodentim-728",
-    "name": "ProDentim",
-    "img": "https://your-cdn.com/ads/prodentim-728x90.jpg",
-    "url": "https://example.com/prodentim?utm_source=blog&utm_medium=ad&utm_campaign=rotator&utm_content=prodentim-728",
-    "sizes": ["728x90","970x90"],
-    "weight": 2,
-    "category": "health",
+    "id": "test-300x600",
+    "name": "Test 300x600",
+    "img": "https://via.placeholder.com/300x600?text=Ad+300x600",
+    "url": "https://example.com/?utm_content=test-300x600",
+    "sizes": ["300x600"],
+    "weight": 1,
     "active": true
   }
 ]
