@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gw-300",
+    "name": "Genius Wave",
+    "img": "https://your-cdn.com/ads/genius-wave-300x250.jpg",
+    "url": "https://example.com/gw?utm_source=blog&utm_medium=ad&utm_campaign=rotator&utm_content=gw-300",
+    "sizes": ["300x250","300x600"],
+    "weight": 3,
+    "category": "mmo",
+    "active": true
+  },
+  {
+    "id": "prodentim-728",
+    "name": "ProDentim",
+    "img": "https://your-cdn.com/ads/prodentim-728x90.jpg",
+    "url": "https://example.com/prodentim?utm_source=blog&utm_medium=ad&utm_campaign=rotator&utm_content=prodentim-728",
+    "sizes": ["728x90","970x90"],
+    "weight": 2,
+    "category": "health",
+    "active": true
+  }
+]
